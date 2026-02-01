@@ -1,0 +1,17 @@
+{
+  "name": "qr-code-project",
+  "version": "1.0.0",
+  "description": "qr-code-project",
+  "license": "ISC",
+  "author": "Keshav Arya",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "inquire": "^0.4.8",
+    "inquirer": "^13.2.2",
+    "qr-image": "^3.2.0"
+  }
+}
