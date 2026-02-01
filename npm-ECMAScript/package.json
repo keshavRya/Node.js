@@ -1,0 +1,15 @@
+{
+  "name": "npm-ecmascript",
+  "version": "1.0.0",
+  "description": "Using npm through ECMA script (module)",
+  "license": "ISC",
+  "author": "KEshav arya",
+  "type": "module",
+  "main": "throughECMA.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "superheroes": "^4.0.0"
+  }
+}
