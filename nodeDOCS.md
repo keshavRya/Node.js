@@ -4,3 +4,5 @@
 
 <li><a target="_blank" href="https://nodejs.org/docs/latest/api/">Native node modules</a></li>
 
+<li><a target="_blank" href="https://www.npmjs.com/">NPM packages</a></li>
+
